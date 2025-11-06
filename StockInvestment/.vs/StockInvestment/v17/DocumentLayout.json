@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Training\\source\\repos\\StockInvestment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\irepositoryuserholdings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\irepositoryuserholdings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\irepositorystockprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\irepositorystockprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\controllers\\stockpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\controllers\\stockpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\irepositorystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\irepositorystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\stockpricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\stockpricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\irepositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\irepositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\stockinvestment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\stockinvestment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\models\\stockinvestmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\models\\stockinvestmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|c:\\users\\training\\source\\repos\\stockinvestment\\stockinvestment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E100B40-EC43-4234-B823-340EAE7780E1}|StockInvestment\\StockInvestment.csproj|solutionrelative:stockinvestment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepository.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepository.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\IRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:23:05.003Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepositoryUserHoldings.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryUserHoldings.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\IRepositoryUserHoldings.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryUserHoldings.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\IRepositoryUserHoldings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:05:46.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryStockPrice.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryStockPrice.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\IRepositoryStockPrice.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryStockPrice.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\IRepositoryStockPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:03:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockPriceController.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\StockPriceController.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Controllers\\StockPriceController.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\StockPriceController.cs",
+              "RelativeToolTip": "StockInvestment\\Controllers\\StockPriceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:03:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\StockController.cs",
+              "RelativeToolTip": "StockInvestment\\Controllers\\StockController.cs",
+              "ViewState": "AQIAACAAAACAlJmZmZkVwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:18:02.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\StockRepository.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\StockRepository.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\StockRepository.cs",
+              "ViewState": "AQIAAAoAAACAZmZmZmYjwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:08:47.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Program.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Program.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Program.cs",
+              "RelativeToolTip": "StockInvestment\\Program.cs",
+              "ViewState": "AQIAAA8AAABAmpmZmRkWwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:24:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryStock.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryStock.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\IRepositoryStock.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryStock.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\IRepositoryStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:01:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockPriceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\StockPriceRepository.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\StockPriceRepository.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\StockPriceRepository.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\StockPriceRepository.cs",
+              "ViewState": "AQIAAAMAAACAAAAAAAABwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:07:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StockInvestment\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABgAAAAAmJmZmZkNwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:36:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositoryUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryUsers.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\IRepositoryUsers.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\IRepositoryUsers.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\IRepositoryUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:32:22.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Models\\Stock.cs",
+              "RelativeToolTip": "StockInvestment\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAZ2ZmZmb0vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:43:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\UsersRepository.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\UsersRepository.cs",
+              "ViewState": "AQIAAAMAAAAAMDMzMzPbvwQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:46:31.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "StockInvestment\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAYAAAAAkJmZmZnhvxIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:17:03.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Services\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Services\\StudentRepository.cs",
+              "RelativeToolTip": "StockInvestment\\Services\\StudentRepository.cs",
+              "ViewState": "AQIAAB4AAACAMzMzMzMiwDEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:23:28.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockInvestment.csproj",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\StockInvestment.csproj",
+              "RelativeDocumentMoniker": "StockInvestment\\StockInvestment.csproj",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\StockInvestment.csproj",
+              "RelativeToolTip": "StockInvestment\\StockInvestment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T06:47:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockInvestmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Models\\StockInvestmentContext.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Models\\StockInvestmentContext.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Models\\StockInvestmentContext.cs",
+              "RelativeToolTip": "StockInvestment\\Models\\StockInvestmentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:31:06.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "StockInvestment\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:11:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\appsettings.json",
+              "RelativeDocumentMoniker": "StockInvestment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\appsettings.json",
+              "RelativeToolTip": "StockInvestment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T06:25:16.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StockInvestment\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Training\\source\\repos\\StockInvestment\\StockInvestment\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StockInvestment\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:02:02.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
