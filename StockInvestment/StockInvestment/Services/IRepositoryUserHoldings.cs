@@ -6,7 +6,9 @@ namespace StockInvestment.Services
     {
         IEnumerable<UserHolding> GetAllUserHoldings();
         UserHolding GetUserHoldingByUserId(int userId);
-        UserHolding GetUserHoldingByStockId(int id);
-        void UpdateStockPrice(StockPrice stock);
+        UserHolding GetUserHoldingByStockId(int stockId);
+
+        UserHolding GetUserHoldingById(int id);
+        void UpdateUserHolding(UserHolding userHolding);
     }
 }
